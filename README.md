@@ -69,6 +69,4 @@ Outputs results through speech or edited text.
 Provides voice-based accessibility for blind and visually impaired users.
 
 👩‍💻 Developer
-
 Harini M
-Solo Developer | ECE Student
